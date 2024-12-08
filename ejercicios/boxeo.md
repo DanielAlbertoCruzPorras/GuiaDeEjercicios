@@ -27,3 +27,9 @@ El boxeo es un ejercicio de alta intensidad que combina fuerza, resistencia card
 5. **Enfriamiento:**
    - Realiza estiramientos para los brazos, hombros, espalda y piernas durante 5-10 minutos.
 
+## Consejos y Precauciones
+- Aprende las técnicas correctas con un instructor para evitar lesiones.
+- Usa un saco de boxeo o equipo de entrenamiento adecuado.
+- Escucha a tu cuerpo y descansa si sientes fatiga extrema o molestias en las articulaciones.
+- Mantén una postura adecuada para proteger la espalda y las muñecas.
+- Si eres principiante, empieza con entrenamientos más cortos y de menor intensidad.
