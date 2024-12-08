@@ -8,3 +8,14 @@ El entrenamiento funcional se enfoca en movimientos integrados que imitan patron
 - Fortalece el núcleo (core) y estabiliza el cuerpo.
 - Incrementa la movilidad y el equilibrio.
 - Reduce el riesgo de lesiones al fortalecer grupos musculares funcionales.
+
+## Instrucciones para Realizar el Ejercicio
+1. **Calentamiento:**
+   Realiza 5-10 minutos de ejercicios dinámicos como jumping jacks o trote ligero.
+2. **Ejercicios básicos:**
+   - **Sentadilla con press:** Combina una sentadilla con levantar una pesa o pelota por encima de la cabeza.
+   - **Plancha con remo:** Mantén una posición de plancha mientras remas con una pesa ligera alternando los brazos.
+   - **Zancadas con giro:** Realiza zancadas mientras giras el torso sosteniendo una pelota o mancuernas.
+3. Realiza de 10 a 12 repeticiones por ejercicio, 2-3 rondas.
+4. Descansa 1-2 minutos entre rondas.
+5. Finaliza con estiramientos enfocados en los músculos trabajados.
