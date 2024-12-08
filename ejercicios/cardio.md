@@ -18,3 +18,4 @@ Los ejercicios de cardio están diseñados para aumentar la frecuencia cardíaca
 - Usa ropa y calzado adecuado para prevenir lesiones.
 - Mantén una hidratación adecuada antes, durante y después del ejercicio.
 - Escucha a tu cuerpo: si sientes dolor o mareo, detente de inmediato.
+
