@@ -18,3 +18,10 @@ El yoga es una práctica milenaria que combina posturas físicas, técnicas de r
    - **Postura del guerrero (Virabhadrasana):** Da un paso hacia adelante con una pierna y flexiona la rodilla mientras extiendes los brazos hacia los lados.
 4. Mantén cada postura durante 20-30 segundos, respirando profundamente.
 5. Finaliza con una postura de relajación, como Savasana (acostado boca arriba), durante 5-10 minutos.
+
+## Consejos y Precauciones
+- Usa ropa cómoda que permita un rango completo de movimiento.
+- Realiza los ejercicios a tu propio ritmo, sin forzar los estiramientos.
+- Si eres principiante, utiliza accesorios como bloques o correas para facilitar las posturas.
+- Evita posturas avanzadas sin la guía de un instructor, especialmente si tienes alguna condición médica.
+- Escucha a tu cuerpo y detente si sientes dolor o incomodidad.
