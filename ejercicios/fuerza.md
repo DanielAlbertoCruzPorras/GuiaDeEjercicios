@@ -17,3 +17,9 @@ Los ejercicios de fuerza están diseñados para desarrollar y fortalecer los mú
    - Realiza de 8 a 12 repeticiones por serie según tu nivel.
 4. Descansa entre series durante 30-90 segundos y repite el ejercicio 3-4 veces.
 5. Finaliza con ejercicios de estiramiento enfocados en los músculos trabajados.
+
+## Consejos y Precauciones
+- Usa una técnica adecuada para evitar lesiones, especialmente en ejercicios con peso adicional.
+- Aumenta la carga progresivamente, respetando tus límites físicos.
+- Descansa al menos 48 horas entre sesiones que trabajen el mismo grupo muscular.
+- Consulta con un especialista si tienes alguna condición médica previa.
