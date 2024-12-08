@@ -24,3 +24,10 @@ El ciclismo es un ejercicio cardiovascular que se realiza al aire libre o en bic
 4. **Enfriamiento:**
    - Reduce gradualmente la intensidad durante los últimos 5 minutos para normalizar la frecuencia cardíaca.
 5. Finaliza con estiramientos para los músculos de las piernas y la espalda.
+
+## Consejos y Precauciones
+- Usa equipo adecuado, como casco y luces, si practicas ciclismo al aire libre.
+- Mantén una postura adecuada para evitar tensiones en la espalda y el cuello.
+- Mantente hidratado antes, durante y después del ejercicio.
+- Si utilizas una bicicleta estática, ajusta la resistencia según tu nivel de condición física.
+- Consulta con un médico antes de comenzar si tienes alguna condición médica o lesión previa.
