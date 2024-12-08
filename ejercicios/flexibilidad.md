@@ -8,3 +8,12 @@ Los ejercicios de flexibilidad están diseñados para mejorar el rango de movimi
 - Reduce el riesgo de lesiones al aumentar la elasticidad muscular.
 - Ayuda a aliviar tensiones musculares y el estrés.
 - Favorece la recuperación muscular después de otros ejercicios.
+
+## Instrucciones para Realizar el Ejercicio
+1. Comienza con un calentamiento ligero de 5-10 minutos para preparar los músculos.
+2. Realiza estiramientos específicos según tus necesidades. Por ejemplo:
+   - **Estiramiento de isquiotibiales:** Siéntate en el suelo con las piernas extendidas, inclina el torso hacia adelante alcanzando los pies sin forzar.
+   - **Rotación de torso:** Gira el tronco suavemente hacia un lado mientras estás sentado, ayudándote con las manos en la pierna opuesta.
+3. Mantén cada posición de estiramiento durante 15-30 segundos sin rebotar.
+4. Repite cada estiramiento 2-3 veces, enfocándote en la respiración lenta y profunda.
+5. Finaliza con ejercicios de relajación para consolidar la flexibilidad trabajada.
