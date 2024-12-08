@@ -20,3 +20,10 @@ El Pilates es un método de entrenamiento que se centra en fortalecer el núcleo
    - **Estiramiento de una pierna:** Acuéstate y alterna llevando una pierna hacia el pecho mientras extiendes la otra en línea recta.
 3. Realiza 8-10 repeticiones de cada ejercicio, manteniendo la técnica correcta.
 4. Finaliza con ejercicios de relajación y estiramientos suaves para los músculos trabajados.
+
+## Consejos y Precauciones
+- Realiza los ejercicios de forma lenta y controlada para maximizar los beneficios.
+- Mantén el abdomen contraído durante todo el entrenamiento para proteger la zona lumbar.
+- Evita levantar el cuello o forzar la columna en posturas incómodas.
+- Si eres principiante, considera tomar clases guiadas para aprender la técnica correcta.
+- Consulta con un médico o instructor si tienes alguna lesión o condición médica.
