@@ -19,3 +19,9 @@ El entrenamiento funcional se enfoca en movimientos integrados que imitan patron
 3. Realiza de 10 a 12 repeticiones por ejercicio, 2-3 rondas.
 4. Descansa 1-2 minutos entre rondas.
 5. Finaliza con estiramientos enfocados en los músculos trabajados.
+
+## Consejos y Precauciones
+- Mantén una postura correcta durante cada ejercicio, especialmente al trabajar el núcleo.
+- Ajusta la intensidad y las repeticiones según tu nivel de condición física.
+- Evita movimientos rápidos o descontrolados que puedan comprometer la técnica.
+- Consulta con un entrenador si no estás seguro de cómo realizar un ejercicio.
