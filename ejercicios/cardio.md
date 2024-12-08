@@ -8,3 +8,8 @@ Los ejercicios de cardio están diseñados para aumentar la frecuencia cardíaca
 - Ayuda a quemar calorías y a controlar el peso.
 - Incrementa la resistencia física.
 
+## Instrucciones para Realizar el Ejercicio
+1. Elige un ejercicio de cardio (por ejemplo, saltar la cuerda o correr en el lugar).
+2. Calienta durante 5-10 minutos con movimientos suaves.
+3. Realiza el ejercicio a un ritmo moderado o intenso durante 20-30 minutos, según tu nivel de condición física.
+4. Finaliza con una sesión de enfriamiento para bajar las pulsaciones y estirar los músculos.
