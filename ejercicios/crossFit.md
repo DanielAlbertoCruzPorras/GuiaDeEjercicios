@@ -25,3 +25,10 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina movim
 3. **Enfriamiento:**
    - Realiza 5-10 minutos de estiramientos para relajar los músculos trabajados.
    - Incluye estiramientos dinámicos y estáticos de piernas, brazos y espalda.
+
+## Consejos y Precauciones
+- Asegúrate de realizar los ejercicios con la técnica correcta para evitar lesiones, especialmente al levantar pesas.
+- Comienza con pesos ligeros y aumenta progresivamente la carga a medida que mejoras.
+- Mantén una buena postura durante los ejercicios de levantamiento de pesas y saltos.
+- Realiza los ejercicios a tu propio ritmo, adaptando la intensidad según tu nivel de condición física.
+- Si eres principiante, es recomendable contar con la supervisión de un instructor certificado para aprender las técnicas adecuadas.
