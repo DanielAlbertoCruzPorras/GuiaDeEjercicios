@@ -9,3 +9,14 @@ El Pilates es un método de entrenamiento que se centra en fortalecer el núcleo
 - Incrementa la flexibilidad y el equilibrio.
 - Reduce el estrés y favorece la conexión mente-cuerpo.
 - Ayuda a prevenir y rehabilitar lesiones.
+
+## Instrucciones para Realizar el Ejercicio
+1. **Preparación:**
+   - Usa una colchoneta para mayor comodidad y protección del cuerpo.
+   - Concéntrate en una respiración controlada, inhalando por la nariz y exhalando por la boca.
+2. **Ejercicios básicos:**
+   - **El Cien (The Hundred):** Acuéstate boca arriba, eleva las piernas a un ángulo de 45 grados, levanta la cabeza y los hombros, y bombea los brazos hacia arriba y abajo mientras respiras durante 100 conteos.
+   - **Puente de Hombros:** Acuéstate boca arriba, flexiona las rodillas, y levanta la cadera hacia el techo mientras mantienes los pies y los hombros apoyados en el suelo.
+   - **Estiramiento de una pierna:** Acuéstate y alterna llevando una pierna hacia el pecho mientras extiendes la otra en línea recta.
+3. Realiza 8-10 repeticiones de cada ejercicio, manteniendo la técnica correcta.
+4. Finaliza con ejercicios de relajación y estiramientos suaves para los músculos trabajados.
