@@ -13,3 +13,8 @@ Los ejercicios de cardio están diseñados para aumentar la frecuencia cardíaca
 2. Calienta durante 5-10 minutos con movimientos suaves.
 3. Realiza el ejercicio a un ritmo moderado o intenso durante 20-30 minutos, según tu nivel de condición física.
 4. Finaliza con una sesión de enfriamiento para bajar las pulsaciones y estirar los músculos.
+
+## Consejos y Precauciones
+- Usa ropa y calzado adecuado para prevenir lesiones.
+- Mantén una hidratación adecuada antes, durante y después del ejercicio.
+- Escucha a tu cuerpo: si sientes dolor o mareo, detente de inmediato.
