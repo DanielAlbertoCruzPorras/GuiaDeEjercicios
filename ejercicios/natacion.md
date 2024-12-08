@@ -27,3 +27,10 @@ La natación es un ejercicio completo que combina resistencia cardiovascular y m
 4. **Enfriamiento:**
    - Nada a un ritmo suave durante 5 minutos.
    - Finaliza con estiramientos suaves fuera del agua.
+
+## Consejos y Precauciones
+- Aprende las técnicas básicas con un instructor para evitar movimientos incorrectos que puedan causar lesiones.
+- Mantente hidratado incluso si no sientes sed; el esfuerzo físico en el agua puede deshidratarte.
+- Si nadas en aguas abiertas, usa un chaleco salvavidas si no tienes experiencia o confianza en aguas profundas.
+- Escucha a tu cuerpo y descansa si sientes fatiga o calambres.
+- Consulta con un médico si tienes alguna afección médica antes de iniciar un programa de natación.
